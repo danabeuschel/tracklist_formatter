@@ -1,7 +1,7 @@
 import re
 import sys
 
-PRINT_COLUMNS = ['Title', 'Artist', 'Label']
+PRINT_COLUMNS = ['Artist', 'Title', 'Label']
 
 def convert_html_to_list(file_path):
     with open(file_path, 'r') as file:

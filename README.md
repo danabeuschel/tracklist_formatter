@@ -3,7 +3,9 @@ Quick script to format Traktor html playlists as Artist - Title [Label]
 
 
 ## Setup
-Download `tracklist_formatter.py` and save it in the folder you where you save your html playlists
+1. Click the green box in the upper right that says "Code"
+2. Choose Download ZIP
+3. Unzip the folder and move the file `tracklist_formatter.py` to the folder where you save your html playlists
 
 ## Usage
 1. Open Terminal
